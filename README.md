@@ -17,7 +17,7 @@
 
 - `City`: Pitrufquén - Temuco
 
-- `Age`: 19 years old
+- `Age`: 20 years old
 
 - `Student`: I am a student at Inacap and I am currently finishing my degree in Analyst Programmer.
 
