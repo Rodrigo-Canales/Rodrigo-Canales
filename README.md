@@ -23,7 +23,7 @@
 
 - `Agile Methodologies`: I am familiar with Agile methodologies such as Scrum, Kanban, and Extreme Programming (XP).
 
-- `Thinking`: I am open to new job opportunities; here is my CV. [View CV](https://drive.google.com/file/d/137nZA51Un17uxURxwRX1q7g43Pil8gkw/view)
+- `Thinking`: I am open to new job opportunities; here is my CV. [View CV](https://drive.google.com/drive/folders/1S8qYuE1fzDpMFjZgDk9_pEBeNPZ7Ojkc?usp=sharing)
 
 <br>
 
@@ -38,7 +38,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,androidstudio,html,js,linux,mongodb,mysql,django,nodejs,postman,py,react,bootstrap,vscode,notion" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,androidstudio,html,js,linux,mongodb,mysql,django,nodejs,postman,py,react,bootstrap,vscode,notion,obsidian" />
   </a>
 </p>
 
@@ -54,7 +54,5 @@
 <br>
 
 <p align="center">
-	<a href="mailto:ahmed.dev.rcanales@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Rodrigo-Canales"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+  <a href="https://mailto:dev.rcanales@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
