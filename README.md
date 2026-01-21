@@ -17,9 +17,9 @@
 
 - `City`: Pitrufquén - Temuco
 
-- `Age`: 20 years old
+- `Age`: 21 years old
 
-- `Student`: I am a student at Inacap and I am currently finishing my degree in Analyst Programmer.
+- `Degree`: I graduated from Inacap and I hold the title of Analyst Programmer.
 
 - `Agile Methodologies`: I am familiar with Agile methodologies such as Scrum, Kanban, and Extreme Programming (XP).
 
@@ -35,7 +35,6 @@
 <p align="center">
 
 </div>
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,androidstudio,html,js,linux,mongodb,mysql,django,nodejs,postman,py,react,bootstrap,vscode,notion,obsidian" />
@@ -54,5 +53,5 @@
 <br>
 
 <p align="center">
-  <a href="https://mailto:dev.rcanales@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:rodrigo.canalesrivas@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
